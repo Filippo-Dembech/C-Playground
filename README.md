@@ -12,6 +12,8 @@ It's local. You can use Vim/Neovim to edit your playground code. I've always fou
 ## How To Install
 
 1. Clone this repo locally
-2. Run `watch-app.js` in a terminal to run `main.cpp` code in real time
+2. Run `watch-app.js` in a terminal
+3. Write your C++ playground code in `main.cpp` and save
+4. See code output in the terminal
 
 > NOTE: `watch-app.js` compiles and runs `main.cpp` code every time the `main.cpp` code changes.
